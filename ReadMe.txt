@@ -1,2 +1,2 @@
-COCOMO.pdf - справка о модели COCOMO.
-COCOMO.exe - файл запуска калькулятора.
+First read the COCOMO.pdf file
+COCOMO.exe - decision
